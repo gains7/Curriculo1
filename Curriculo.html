@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+<title>Currículo Caio Comarella</title>
+  
+  </head>
+<body>
+  <section>
+<h1>Currículo</h1>
+<ul>
+   <img src="foto2.jpg" alt="" width="160px">
+<li>Caio Andriolo Comarella</li>
+
+<li>Email:caioacomarella@gmail.com</li>
+  
+<li>Numero:(27)997911717</li>
+  
+</ul>
+      
+  </section>
+  <section>
+    <h2>informações pessoais:</h2>
+<ul>
+
+   <li>Meu nome é Caio Andriolo Comarella, tenho 18 anos e estou cursando ciencia da computação.</li>
+</ul>
+    
+</section>
+  <section>
+    <h2>Qualidades:</h2>
+<ul>
+
+<li>Nivel de ingles: Avançado.</li>
+<li>Bom em lidar com pessoas.</li>  
+<li>Mente aberta</li>
+</ul>
+    
+</section>
+
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
